@@ -36,10 +36,12 @@ streamlit run app.py
 
 #### Navigate to [`localhost`](http://localhost:8501) to interact with LLAMA3.
 
+## HOME PAGE:
 <div class="row">
     <img src="IMAGES/HOME.png" title='HOME' alt="HOME" style="width:100%">
 </div>
 
+## LANGSMITH DASHBOARD:
 <div class="row">
     <img src="IMAGES/DASHBOARD.png" title='DASHBOARD' alt="DASHBOARD" style="width:100%">
 </div>
