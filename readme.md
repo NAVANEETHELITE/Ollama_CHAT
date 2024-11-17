@@ -12,8 +12,7 @@ This Q&A application leverages the `Ollama` language model (LLAMA 3.2:1b) to pro
 
 ## MODEL INSTALLATION
 
-Download and install [`Ollama`](https://ollama.com/download) and pull the required model.
-For eg:
+Download and install [`Ollama`](https://ollama.com/download). Then pull the required model as follows:
 ```bash
 ollama run llama3.2:1b
 ```
